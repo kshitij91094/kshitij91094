@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 -------------
 
-I'm a data engineer who love to extract and transform data.
+I'm a data analyst who love to extract and transform data.
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kshitij91094@gmail.com](mailto:kshitij91094@gmail.com)
